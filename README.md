@@ -21,4 +21,4 @@ Secondary PC: Toshiba Techra R700 12in
     
 Main Phone: Samsung Galaxy S24
 
-Secondary Phone: Blackberry Classic Q20
+Secondary Phone: Blackberry Classic Q20 (yes really)
