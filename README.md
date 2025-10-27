@@ -12,10 +12,12 @@ Look at each repo individually to see my activity.
   - OS: Windows 11 + Garuda linux dual-boot
   - Keyboard: Philips SPK8403
   - Mouse: Logitech G502 Hero
+    
 #Secondary PC: Toshiba Techra R700 12in
   - CPU: 4th gen Intel Core i5
   - GPU: Integrated
   - RAM: 16gb
   - 4g Cell Modem
+    
 #Main Phone: Samsung Galaxy S24
 #Secondary Phone: Blackberry Classic Q20
